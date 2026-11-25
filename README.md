@@ -8,7 +8,7 @@ Repository:-ims-ai-2403110002
 
 Foundations of 3D Modelling in Python :--
 
-Flat Plate(plate.py,plate.stl):-
+A.Flat Plate(plate.py,plate.stl):-
 
 1.Creates a dimensional base plate using parameterized coordinates/features ready for downstream mating.
 
@@ -16,7 +16,7 @@ Flat Plate(plate.py,plate.stl):-
 
 3.Generates the base plate solid/mesh to serve as the datum reference for muti-part assemblies.
 
-2x4 8-stud Brick(brick.py,brick.stl):-
+B.2x4 8-stud Brick(brick.py,brick.stl):-
 
 1.Constructs a 2x4 interlocking brick geometry using pitch-based stud arrays and shell/wall thickness parameters.
 
