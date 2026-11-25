@@ -1,4 +1,4 @@
-﻿```python
+﻿
 import math
 from itertools import product
 from cadquery import func as cf
@@ -29,4 +29,6 @@ expected = (length * width * height) + num_studs * (math.pi * (stud_d / 2) ** 2 
 assert abs(brick.Volume() - expected) < 0.5
 
 brick.exportStl("brick.stl")
+
+True
 ```
