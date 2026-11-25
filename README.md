@@ -1,10 +1,10 @@
 Intelligent Manufacturing Systems and AI-Based Process Optimization:---
 
-Name-Prateek Kumar Khalkho
+Name:-Prateek Kumar Khalkho
 
-Registration Number-2403110002
+Registration Number:-2403110002
 
-Repository-ims-ai-2403110002
+Repository:-ims-ai-2403110002
 
 Foundations of 3D Modelling in Python :--
 
